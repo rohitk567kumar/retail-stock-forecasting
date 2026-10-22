@@ -1,0 +1,4 @@
+Dataset,Start date,End date,Days
+Training,2022-01-01,2023-11-06,675
+Validation,2023-11-07,2023-12-04,28
+Test,2023-12-05,2024-01-01,28

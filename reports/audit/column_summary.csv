@@ -1,0 +1,16 @@
+column,type,missing,unique_values
+Date,object,0,731
+Store ID,object,0,5
+Product ID,object,0,20
+Category,object,0,5
+Region,object,0,4
+Inventory Level,int64,0,451
+Units Sold,int64,0,498
+Units Ordered,int64,0,181
+Demand Forecast,float64,0,31608
+Price,float64,0,8999
+Discount,int64,0,5
+Weather Condition,object,0,4
+Holiday/Promotion,int64,0,2
+Competitor Pricing,float64,0,9751
+Seasonality,object,0,4

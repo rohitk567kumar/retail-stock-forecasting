@@ -1,0 +1,10 @@
+{
+  "data_kind": "Synthetic demonstration data",
+  "forecast_mode": "Precomputed offline forecasts",
+  "forecast_horizon_days": 7,
+  "validation_days": 28,
+  "test_days": 28,
+  "evaluation": "Weekly rolling forecasts",
+  "selection_rule": "Lowest validation MAE, then RMSE and model name",
+  "limitation": "Product/category and store/region labels are inconsistent. Real retail usefulness has not been established."
+}

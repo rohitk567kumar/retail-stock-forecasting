@@ -1,0 +1,11 @@
+check,value
+raw_rows,73100
+prepared_rows,73100
+missing_cells,0
+exact_duplicates,0
+invalid_required_rows,0
+store_product_combinations,100
+series_with_gaps,0
+products_with_multiple_categories,20
+stores_with_multiple_regions,5
+sales_above_beginning_inventory,0
